@@ -1,6 +1,6 @@
 # 👋 Hi
 
-I’m an Infectious Disease pharmacist diving into coding to streamline workflows and enhance antimicrobial stewardship.
+I’m an Infectious Disease and Antimicrobial Stewardship pharmacist diving into coding to streamline workflows and enhance antimicrobial stewardship.
 
 I’m focusing on learning and integrating R and Python coding into my daily tasks, including research projects, data analysis, and improving patient care.
 
