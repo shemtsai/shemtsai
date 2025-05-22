@@ -1,9 +1,5 @@
 # 👋 Hi
 
-I’m an Infectious Disease and Antimicrobial Stewardship pharmacist diving into coding.
+I’m an Infectious Disease and Antimicrobial Stewardship pharmacist. Learning how to integrate coding into antimicrobial stewardship to improve analysis, visualization, and efficiencies. Still very new to the coding space so open to feedback, collaboration, and ideas. Mini-projects and visualizations I've utilized R for are on my repository. 
 
-I’m focusing on learning and integrating R (and hopefully Python soon) into my daily tasks, including research projects, data analysis, and data visualization.
-
-I am still very new to the coding space so open to feedback, collaboration, and ideas to optimize workflows and develop innovative solutions - appreciate your patience.
-
-Feel free to check out my public projects and reach out!
+Feel free to reach out at stsai@houstonmethodist.org for any questions!
